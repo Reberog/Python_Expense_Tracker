@@ -1,0 +1,130 @@
+[
+  {
+    "id": "3c876ea9",
+    "amount": 100.0,
+    "category": "Ration",
+    "description": "Buy ration",
+    "date": "2025-10-21",
+    "created_at": "2025-10-21T00:43:54.019118"
+  },
+  {
+    "id": "0871cd82",
+    "amount": 100.0,
+    "category": "tree",
+    "description": "tree",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T09:25:33.263025"
+  },
+  {
+    "id": "3c876ea9",
+    "amount": 100.0,
+    "category": "Ration",
+    "description": "Buy ration",
+    "date": "2025-10-21",
+    "created_at": "2025-10-21T00:43:54.019118"
+  },
+  {
+    "id": "0871cd82",
+    "amount": 100.0,
+    "category": "tree",
+    "description": "tree",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T09:25:33.263025"
+  },
+  {
+    "id": "0390f23e",
+    "amount": 1.0,
+    "category": "asd",
+    "description": "as",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T09:39:13.090553"
+  },
+  {
+    "id": "3c876ea9",
+    "amount": 100.0,
+    "category": "Ration",
+    "description": "Buy ration",
+    "date": "2025-10-21",
+    "created_at": "2025-10-21T00:43:54.019118"
+  },
+  {
+    "id": "0871cd82",
+    "amount": 100.0,
+    "category": "tree",
+    "description": "tree",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T09:25:33.263025"
+  },
+  {
+    "id": "3c876ea9",
+    "amount": 100.0,
+    "category": "Ration",
+    "description": "Buy ration",
+    "date": "2025-10-21",
+    "created_at": "2025-10-21T00:43:54.019118"
+  },
+  {
+    "id": "0871cd82",
+    "amount": 100.0,
+    "category": "tree",
+    "description": "tree",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T09:25:33.263025"
+  },
+  {
+    "id": "0390f23e",
+    "amount": 1.0,
+    "category": "asd",
+    "description": "as",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T09:39:13.090553"
+  },
+  {
+    "id": "20f58d6c",
+    "amount": 66.0,
+    "category": "g",
+    "description": "hk",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T10:03:02.534506"
+  },
+  {
+    "id": "3c876ea9",
+    "amount": 100.0,
+    "category": "Ration",
+    "description": "Buy ration",
+    "date": "2025-10-21",
+    "created_at": "2025-10-21T00:43:54.019118"
+  },
+  {
+    "id": "0871cd82",
+    "amount": 100.0,
+    "category": "tree",
+    "description": "tree",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T09:25:33.263025"
+  },
+  {
+    "id": "3c876ea9",
+    "amount": 100.0,
+    "category": "Ration",
+    "description": "Buy ration",
+    "date": "2025-10-21",
+    "created_at": "2025-10-21T00:43:54.019118"
+  },
+  {
+    "id": "0871cd82",
+    "amount": 100.0,
+    "category": "tree",
+    "description": "tree",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T09:25:33.263025"
+  },
+  {
+    "id": "0390f23e",
+    "amount": 1.0,
+    "category": "asd",
+    "description": "as",
+    "date": "2025-10-25",
+    "created_at": "2025-10-25T09:39:13.090553"
+  }
+]
